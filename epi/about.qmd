@@ -5,7 +5,7 @@ about:
 format: 
   html: 
     other-links: false  
-image: /static/img/who-emblem.png
+image: /static/img/logo-en.svg
 ---
 
 Pour toute information à propos de la reunion, veuillez contacter

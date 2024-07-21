@@ -1,7 +1,7 @@
 ---
 title: "Journée du 12 septembre 2024 "
 description: "<strong>Présentations de la 4^e^ journée</strong>"
-image: /static/img/who-emblem.png
+#image: /static/img/business-time-solid.svg
 title-block-banner: false
 execute: 
   echo: false

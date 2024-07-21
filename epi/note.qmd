@@ -1,7 +1,7 @@
 ---
 title: ""
 description: "<strong>Informations complémentaires et indications pratiques</strong>"
-image: /static/img/who-emblem.png
+#image: /static/img/circle-info-solid.svg
 format: 
   html: 
     toc: true

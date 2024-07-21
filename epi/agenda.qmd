@@ -12,7 +12,7 @@ format:
         href: day3.html
       - text: "Présentations jour 4"
         href: day4.html
-image: /static/img/who-emblem.png
+#image: /static/img/business-time-solid.svg
 title-block-banner: false
 execute: 
   echo: false

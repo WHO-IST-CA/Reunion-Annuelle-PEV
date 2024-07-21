@@ -11,7 +11,7 @@ website:
   repo-actions: [source, issue]
   
   navbar: 
-    logo: /static/img/logo-en.png
+    logo: /static/img/logo-en.svg
     background: light
     foreground: dark
     right: 

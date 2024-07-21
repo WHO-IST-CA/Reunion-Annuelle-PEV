@@ -1,7 +1,7 @@
 ---
 title: "Inscriptions"
 description: "<strong>Inscriptions pour la reunion PEV-AC</strong>"
-image: /static/img/who-emblem.png
+#image: /static/img/pen-nib-solid.svg
 title-block-banner: false
 execute: 
   echo: false

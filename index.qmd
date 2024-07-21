@@ -6,10 +6,10 @@ listing:
   contents: epi
   sort: "date desc" 
   type: grid
-  grid-columns: 3
-  image-height: 250px
+  grid-columns: 4
+  image-height: 150px
   page-size: 100
-  categories: true
+  categories: false
 page-layout: full
 title-block-banner: true
 code-tools: false
