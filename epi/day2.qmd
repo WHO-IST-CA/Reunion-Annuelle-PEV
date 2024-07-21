@@ -1,0 +1,22 @@
+---
+title: "Journée du 10 septembre 2024 "
+description: "<strong>Présentations de la 2^e^ journée</strong>"
+image: /static/img/who-emblem.png
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+

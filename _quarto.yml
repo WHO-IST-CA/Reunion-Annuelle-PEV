@@ -1,0 +1,75 @@
+project: 
+  type: website
+  output-dir: docs
+
+  
+website: 
+  title: "   "
+  #site-url: 
+  favicon: /static/img/who-emblem.png
+ 
+  repo-actions: [source, issue]
+  
+  navbar: 
+    logo: /static/img/logo-en.png
+    background: light
+    foreground: dark
+    right: 
+      - text: "Accueil"
+        href: index.qmd
+        icon: bi-house-door-fill
+      - text: Enregistrements
+        href: epi/enregistrement.qmd
+        icon: input-cursor-text
+      - text: Agenda
+        icon: calendar-date-fill
+        menu: 
+          - text: "Agenda de la Réunion"
+            href: epi/agenda.qmd
+          - text: "Jour 1"
+            href: epi/day1.qmd
+          - text: "jour 2"
+            href: epi/day2.qmd
+          - text: "Jour 3"
+            href: epi/day3.qmd
+          - text: "Jour 4"
+            href: epi/day4.qmd
+      - text: Note d'information
+        href: epi/note.qmd
+        icon: bi-airplane-fill
+      - text: "Contact"
+        file:  epi/about.qmd
+        icon: bi-person-lines-fill
+   
+  
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} WHO-IST CA 2024<br>
+      
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org)
+    right:
+      - text: Unicef
+        href: static/img/uncicef.png
+
+
+
+
+format: 
+  html: 
+    theme: dinty.scss
+    css: styles.css
+    highlight-style: kate
+    code-block-bg: true
+    code-block-border-left: "#78c2ad"
+    code-fold: true
+    code-tools: false
+    fig-width: 9
+    fig-height: 6
+    fig-align: center
+    other-links: 
+      - text: "Telecharger Agenda"
+        icon: download
+        href: schedule/meeting.ics
+
+execute:
+  freeze: auto

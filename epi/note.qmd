@@ -1,0 +1,124 @@
+---
+title: ""
+description: "Enregistrement pour la reunion PEV-AC"
+image: /static/img/who-emblem.png
+format: 
+  html: 
+    toc: true
+    toc-title: "Aller à"
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+
+## Note d'information 
+
+### Conditions d'entrée sur le territoire
+
+Un visa est requis pour entrer en RDC. Pour les pays où il y a une ambassade de la RDC, il est nécessaire de prendre toutes les dispositions pour obtenir le visa avant d’entreprendre le voyage. 
+Les pays ne disposant pas d’une Ambassade de la RDC, le visa peut être obtenu via le lien [www.evisa.gouv.cd  ](www.evisa.gouv.cd ) 
+
+
+**Deux pages de passeport vierges consécutives** : La RDC exige que les voyageurs aient deux pages vierges consécutives dans leur passeport à chaque arrivée en RDC. L'entrée sur le territoire Congolais vous sera refusée si vous n'avez pas deux pages vierges consécutives.
+
+**Passeport valable six mois** : Les voyageurs ne seront pas autorisés à franchir les frontières Congolaises si leur passeport n'a pas une date d'expiration minimale d'au moins six mois après le dernier jour du voyage. 
+
+
+
+
+### Vaccins Obligatoires 
+
+Les voyageurs entrant en RDC en provenance de pays désignés par l'OMS comme présentant un risque de transmission du virus de la fièvre jaune (YFV) doivent présenter leur certificat international de vaccination en cours de validité approuvé par l'Organisation mondiale de la santé (OMS) (carte jaune).
+
+Pour les participants venant d’un pays exempt de paludisme, il est vivement recommandé de prendre une prophylaxie contre le paludisme, du répulsif anti-moustique et une pommade contre les piqures éventuelles sont également conseillés.
+
+
+### Perdiem
+
+Le taux de per diem Nations-Unies à Kinshasa est à 644 000 Francs Congolais (CDF) soit US$ 231. 
+Les participants pris en charge par l’OMS recevront 30 % du per diem (déductions du logement 50%, du petit déjeuner 10% et du déjeuner 10%).
+Les déjeuners et pauses café de groupe seront servis durant l’atelier et offert payés par l’OMS.
+Les dîners pris en charge par chaque participant.
+
+Il est vivement recommandé à tous les participants pris en charge par l’OMS de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.
+
+
+### Monnaie
+
+La monnaie officielle de la RDC est le Franc Congolais (FC). Le taux de change : 1 USD = 2830 FC (juillet 2024). La devise américaine (USD) est acceptée dans tous les commerces de la RDC.
+
+### Accueil à Kinshasa
+
+Les participants seront accueillis à l’Aéroport International de N’Djili et au Beach Ngobila, ils sont priés de communiquer leurs plans de vol (compagnie aérienne, N° de vol, Date et heure d’arrivée) à Mme Ndeye SALL [diagnen@who.int](mailto:diagnen@who.int)  et à Mr Alain [elofae@who.int](mailto:elofae@who.int).
+A l'arrivée, un véhicule de l’OMS sera disponible à l'aéroport et au Beach pour vous conduire directement à l’hôtel. La même logistique sera disponible pour le retour.
+
+### Prévention des Méconduites Sexuelles 
+
+Un briefing sur la prévention des méconduites sexuelles sera dispensé aux membres de la mission à leur arrivée (généralement en synchronisation avec le briefing de sécurité). Il est demandé à tous les membres de la mission de compléter les deux formations obligatoires en ligne avant leur arrivée en République Centrafricaine. 
+
+
+### Securité
+
+La situation sécuritaire à Kinshasa est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Kinshasa sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Kinshasa, y compris dans la commune de Gombe au centre-ville. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l'argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ».
+Il est conseillé d'éviter les grands rassemblements publics, en particulier les manifestations politiques.
+Il est également important d'être conscient du danger que peut représenter la circulation routière à Kinshasa. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers. L'utilisation des transports en commun (bus et taxis jaunes) est déconseillée. Il est conseillé d'utiliser les sociétés de transport privées recommandées ci-dessous : 
+
+[YANGO APP](https://play.google.com/store/apps/details?id=com.yandex.yango&pcampaignid=web_share), [CARNAYO APP](https://carnayo.com/), [MAAJABU CABB](https://play.google.com/store/apps/details?id=com.maajabucabb.user&pcampaignid=web_share) : téléchargez l'application sur App store ou google play. 
+[JEFFERY TAXI](https://play.google.com/store/apps/details?id=com.jefferytravels.taxi&pcampaignid=web_share) : Tél : +243844487777 / 0808307777 - Email : [ruffin@jefferytravels.com](mailto:ruffin@jefferytravels.com) ; [taxi@jefferytravels.com](mailto:taxi@jefferytravels.com).
+
+Il est recommandé de respecter les précautions de sécurité habituelles et de contacter le responsable de la sécurité et son assistant aux coordonnées ci-après :
+
+Mr. Hilaire BOIDOU, Field Security Officer, WHO DRC, Tel: +243 817 006 403 ; e-mail: [boidouh@who.int](mailto:boidouh@who.int)
+Mr Vincent SUMBU NZALAKANDA, Security assistant, WHO DRC, Tel: +243 810 613 659 ; e-mail: [sumbuv@who.int](mailto:sumbuv@who.int) 
+
+### Hébergement
+
+Tous les participants seront logés à l’hôtel Pullman.
+L’hébergement (chambre + petit déjeuner) sera à la charge de l’OMS.
+Tous les frais supplémentaires et autres dépenses engagés (extras) doivent être réglés par chaque participant avant son départ de l'hôtel. L'OMS ne saurait être tenue pour responsable en aucune circonstance. Toute dépense non prise en charge par l’OMS et non réglée sera transmise aux pays et aux structures de gestion des participants concernés.
+
+![](https://cdn.luxeglobalawards.com/cdn-cgi/image/width=1440,fit=contain,quality=85,format=auto/production/Vvhm02NDPCriWdGYMj9fIBEPOv2yPAzf-Pullman%20fa%C3%83%C2%A7ade.jpg){width=80% fig-align="center" .lightbox}
+
+
+### Climat 
+
+La RDC, a une superficie de 2 345 000 Km2 et une population estimée à 102 millions d’habitants, elle constitue un patrimoine culturel exceptionnel avec près de 450 ethnies. La diversité culturelle, artistique et linguistique constitue l’une des grandes richesses de la RDC. 
+La ville connaît deux saisons réparties comme suit : la saison sèche, de mai à septembre et la saison des pluies, d’octobre à avril. Pendant le mois de mars qui correspond à la saison des pluies il y a d’intense soleil, les températures oscillent entre 30°C et 35°C.
+
+### Langues 
+
+Le français est la langue administrative officielle et le lingala est la langue locale parlée à Kinshasa.
+Sur le plan linguistique, le pays compte 4 langues nationales à savoir : le lingala, le kikongo, le tshiluba et le swahili ainsi que plus de 400 dialectes.
+
+
+### Appels Telephoniques Internationaux/ Acces Internet 
+
+Des installations pour les appels téléphoniques internationaux et l’accès à internet sont disponibles à l’Hôtel. Les cartes téléphoniques et cartes SIM locales sont vendues à l’aéroport, à l’Hôtel et dans les magasins de la ville.
+
+### Heure Locale
+
+Heure de Kinshasa et Brazzaville GMT+1
+
+
+### Électricité
+
+Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes
+
+
+### Adresse et Contactcs Utiles 
+
+**Bureau Pays:**
+
+- Dr Boureima Hama SAMBO; Représentant OMS RDC, Tél. +243817006400, email: [sambob@who.int ](mailto:sambob@who.int )
+- Dr Jean Baptiste NIKIEMA, Représentant Adjoint OMS RDC, Tél +243814720592, email: [nikiemaje@who.int](mailto:nikiemaje@who.int)
+- Dr Amadou Mouctar DIALLO, Team Lead EPR ai ; Tél +243813703956, email: [dialloam@who.int](mailto:dialloam@who.int)
+- M. Pierre Claver LESSIMI, Senior Operations Officer, Tél +243 817 006 401, email: [lessimip@who.int](mailto:lessimip@who.int ) 
+- Mme Carine ANO, Management and Administration Officer, Tél +243837233774, email: [anoc@who.int](mailto:anoc@who.int)
+- M. Elofa Alain, Travel Assistant, Tél. +243 819700610, email: [elofae@who.int](mailto:elofae@who.int) 
+
+
+
+
+

@@ -1,0 +1,17 @@
+---
+title: "Contacts"
+about: 
+  template: trestles
+format: 
+  html: 
+    other-links: false  
+image: /static/img/who-emblem.png
+---
+
+Pour toute information à propos de la reunion, veuillez contacter
+
+**Mme Raïssa Moussounda Mabika** <br/>{{< fa envelope title = "email">}} [mabikar@who.int](mailto:mabikar@who.int?subject=Reunion PEV Kinshasa)
+
+**Mr Alain Elofa**<br/>{{< fa envelope title = "email">}} [elofae@who.int](mailto:elofae@who.int?subject=Reunion PEV Kinshasa)
+
+ **Dr Franck Mboussou**<br/>{{< fa envelope title = "email">}} [mboussouf@who.int](maito:mboussouf@who.int?subject=Reunion PEV Kinshasa)

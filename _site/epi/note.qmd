@@ -1,0 +1,38 @@
+---
+title: ""
+description: "Enregistrement pour la reunion PEV-AC"
+image: header.png
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+Chers participants et modérateurs,
+
+Nous sommes ravis de vous accueillir à Kinshasa! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :
+
+- **Remplissez le formulaire** :
+Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).
+- **Validez votre inscription** :
+Cliquez sur le bouton **“Envoyer”** pour confirmer votre participation.
+N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement !
+<br/>
+<br/>
+<br/>
+
+```{=html}
+<iframe src="https://fm.addxt.com/form/?vf=1FAIpQLSclCYRAbO5Y8gF-rhvDnnpuOP3PP3GHud50KBYlea9U-3563w" width="1080" height="1240" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+```
+
+
+
+
+
+
+
+
+
+
+

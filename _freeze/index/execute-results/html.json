@@ -1,0 +1,15 @@
+{
+  "hash": "f33ec6e0f77fa0b9e5b2604ac2da9ff0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Reunion Annuelle des Directeurs des Programme Élargis de Vaccination d'Afrique Centrale\nsubtitle: Kinshasa<br/> Du 09 au 12 septembre 2024 \nlisting:\n  feed: true\n  contents: posts\n  sort: \"date desc\"\n  type: grid\n  grid-columns: 3\n  image-height: 250px\n  page-size: 100\n  categories: true\npage-layout: full\ntitle-block-banner: true\ncode-tools: false\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

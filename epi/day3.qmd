@@ -1,0 +1,22 @@
+---
+title: "Journée du 11 septembre 2024 "
+description: "<strong>Présentations de la 3^e^ journée</strong>"
+image: /static/img/who-emblem.png
+title-block-banner: false
+execute: 
+  echo: false
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
