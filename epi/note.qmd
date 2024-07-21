@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "Enregistrement pour la reunion PEV-AC"
+description: "<strong>Informations complémentaires et indications pratiques</strong>"
 image: /static/img/who-emblem.png
 format: 
   html: 
