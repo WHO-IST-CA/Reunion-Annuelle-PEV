@@ -69,7 +69,7 @@ format:
     other-links: 
       - text: "Telecharger Agenda"
         icon: download
-        href: schedule/meeting.ics
+        href: meeting.ics
 
 execute:
   freeze: auto
