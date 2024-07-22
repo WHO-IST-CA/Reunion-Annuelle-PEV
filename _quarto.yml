@@ -6,7 +6,15 @@ project:
 website: 
   title:  <img src = "static/img/unicef2.png" alt = "Unicef" width = "175" height = "43.75" img>
   favicon: /static/img/who-emblem.png
- 
+  site-url: https://benguimbis.github.io/registration_website/
+  cookie-consent: true
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Attention** - Tous les enregistrements devront se faire avant le **15 août 2024**"
+    type: warning
+    position: above-navbar
+  repo-url: https://github.com/benguimbis/registration_website
   repo-actions: [source, issue]
   
   navbar: 
@@ -48,8 +56,10 @@ website:
     right:
       - text: <img src = "static/img/logo-en.svg"  alt = "WHO-AFRO" width = "250" height = "62.5">&nbsp;
         href: https://www.afro.who.int/
+        aria-label: WHO-AFRO
       - text: <img src = "static/img/unicef2.png" alt = "Unicef" width = "150" height = "37.5" img>
         href: https://www.unicef.org/wca/
+        aria-label: Unicef-WCA
 
 
 
