@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Mon, 22 Jul 2024 12:06:03 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jul 2024 12:07:57 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -505,7 +505,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -520,7 +520,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -535,7 +535,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -550,7 +550,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -574,7 +574,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -668,7 +668,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:07:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
