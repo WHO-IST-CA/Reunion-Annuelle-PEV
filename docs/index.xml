@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Mon, 22 Jul 2024 11:17:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jul 2024 12:06:03 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -505,7 +505,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -520,7 +520,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -535,7 +535,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -550,7 +550,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -564,7 +564,8 @@
 <p>Nous sommes ravis de vous accueillir à Kinshasa! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :</p>
 <ul>
 <li><strong>Remplissez le formulaire</strong> : Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).</li>
-<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Envoyer”</strong> pour confirmer votre participation. N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement ! <br> <br> <br></li>
+<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Envoyer”</strong> pour confirmer votre participation.</li>
+<li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement ! <br> <br> <br></li>
 </ul>
 <iframe src="https://fm.addxt.com/form/?vf=1FAIpQLSclCYRAbO5Y8gF-rhvDnnpuOP3PP3GHud50KBYlea9U-3563w" width="1080" height="1240" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
@@ -573,7 +574,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -667,7 +668,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Mon, 22 Jul 2024 11:17:28 GMT</pubDate>
+  <pubDate>Mon, 22 Jul 2024 12:06:03 GMT</pubDate>
 </item>
 </channel>
 </rss>
