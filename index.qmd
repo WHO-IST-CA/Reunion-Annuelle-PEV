@@ -1,5 +1,5 @@
 ---
-title: Reunion Annuelle des Directeurs des Programme Élargis de Vaccination d'Afrique Centrale
+title: Réunion Annuelle des Directeurs des Programme Élargis de Vaccination d'Afrique Centrale
 subtitle: <i class="fa-solid fa-hotel"></i>  Hotel Pullman, Kinshasa<br/><i class="fa-solid fa-calendar"></i>  Du 09 au 12 septembre 2024
 listing:
   feed: true
@@ -7,7 +7,7 @@ listing:
   sort: "date desc" 
   type: grid
   grid-columns: 4
-  image-height: 150px
+  image-height: 250px
   page-size: 100
   categories: false
 page-layout: full

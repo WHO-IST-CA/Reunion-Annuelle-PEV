@@ -4,8 +4,7 @@ project:
 
   
 website: 
-  title: "   "
-  #site-url: 
+  title: <img src = "static/img/unicef2.png" alt = "Unicef" width = "150" height = "37.5" img>
   favicon: /static/img/who-emblem.png
  
   repo-actions: [source, issue]
@@ -44,12 +43,14 @@ website:
   
   page-footer:
     left: |
-      {{< fa regular copyright >}} WHO-IST CA 2024<br>
-      
+      {{< fa regular copyright >}} WHO-IST CA 2024<br>      
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org)
     right:
-      - text: Unicef
-        href: static/img/uncicef.png
+      - text: <img src = "static/img/logo-en.svg"  alt = "WHO-AFO" width = "250" height = "62.5">&nbsp;
+        href: https://www.afro.who.int/
+      - text: <img src = "static/img/unicef2.png" alt = "Unicef" width = "150" height = "37.5" img>
+        href: https://www.unicef.org/wca/
+
 
 
 
