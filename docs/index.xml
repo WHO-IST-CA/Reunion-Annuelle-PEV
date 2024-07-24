@@ -10,7 +10,7 @@
 <atom:link href="https://benguimbis.github.io/registration_website/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.1</generator>
-<lastBuildDate>Tue, 23 Jul 2024 18:06:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jul 2024 09:02:51 GMT</lastBuildDate>
 <item>
   <title>Contacts</title>
   <link>https://benguimbis.github.io/registration_website/epi/about.html</link>
@@ -23,7 +23,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/about.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
   <media:content url="https://benguimbis.github.io/registration_website/epi/logo-en.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -490,7 +490,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/agenda.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 09 septembre 2024</title>
@@ -505,7 +505,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day1.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 10 septembre 2024</title>
@@ -520,7 +520,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day2.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 11 septembre 2024</title>
@@ -535,7 +535,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day3.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title>Journée du 12 septembre 2024</title>
@@ -550,7 +550,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/day4.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title>Inscriptions</title>
@@ -574,7 +574,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/enregistrement.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -599,8 +599,7 @@
 </section>
 <section id="perdiem" class="level3">
 <h3 class="anchored" data-anchor-id="perdiem">Perdiem</h3>
-<p>Le taux de per diem Nations-Unies à Kinshasa est à 644 000 Francs Congolais (CDF) soit US$ 231. Les participants pris en charge par l’OMS recevront 30 % du per diem (déductions du logement 50%, du petit déjeuner 10% et du déjeuner 10%). Les déjeuners et pauses café de groupe seront servis durant l’atelier et offert payés par l’OMS. Les dîners pris en charge par chaque participant.</p>
-<p>Il est vivement recommandé à tous les participants pris en charge par l’OMS de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
+<p>Le taux de per diem Nations-Unies à Kinshasa est à 644 000 Francs Congolais (CDF) soit US$ 231. Pour tous les participants pris en charge par l’OMS, des déductions de 50% pour l’hébergement (durant tout le séjour) et 10% pour les déjeuners, (uniquement pendant les jours des réunions) sont à appliquer sur les TRs. Les déjeuners et pauses café de groupe seront servis durant l’atelier et offert payés par l’OMS. Les dîners pris en charge par chaque participant. Il est vivement recommandé à tous les participants pris en charge par l’OMS de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
 </section>
 <section id="monnaie" class="level3">
 <h3 class="anchored" data-anchor-id="monnaie">Monnaie</h3>
@@ -668,7 +667,7 @@
 
  ]]></description>
   <guid>https://benguimbis.github.io/registration_website/epi/note.html</guid>
-  <pubDate>Tue, 23 Jul 2024 18:06:09 GMT</pubDate>
+  <pubDate>Wed, 24 Jul 2024 09:02:51 GMT</pubDate>
 </item>
 </channel>
 </rss>
