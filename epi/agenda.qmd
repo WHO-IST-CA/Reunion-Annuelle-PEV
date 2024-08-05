@@ -65,7 +65,7 @@ execute:
 | 14:45-15:30 	| Présentation des panelistes sur la digitalisation dans les programmes de   vaccination : Cameroun (planification et enregistrement des données par   session de vaccination), RDC (expérimentation du registre électronique),   Burundi (gestion de la campagne de vaccination contre la Rougeole) 	|  	|
 | 15 :30- 16 :00 	| Discussion 	|  	|
 | 16 :00-16 :30 	| Pause-café 	|  	|
-| 16 :30 – 18 : 00 	| Réunions parallèles à   planifier   avec les pays et les partenaires 	|  	|
+| 16 :30 – 18 : 00 	| Stratégie EYE et contrôle de fièvre jaune : Protection des travailleurs à haut risque 	| Blaise BATHONDOLIP<br> Marie Eve RAGUENAUD  	|
 | **Journée   du 11 Septembre 2024 Modérateur : TBC** 	|  	|  	|
 | 8 :30 -8 :45 	| Synthèse de la deuxième   journée 	|  	|
 | **Panel 5 VPD et Genre <br>   Modérateur: Jonas Ebina (Directeur du PEV Congo)** 	|  	|  	|
@@ -107,6 +107,3 @@ execute:
 | 15 :20-15 :40 	| Pause-café 	|   	|
 | 15 :40-16 :00 	| Evaluation de la réunion par   les participants 	|   	|
 | 16 :00-16 :30 	| Cérémonie de   cloture<br/>Allocution du Représentant de l’UNICEF-RDC (au nom du   Système des Nations Unies)<br/>Allocution de Gavi<br/>Allocution   de clôture du Ministre en charge de la santé de la RDC 	|   	|
-
-
-
